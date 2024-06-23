@@ -1,0 +1,6 @@
+LastName	LastNameInitial	FirstNameInitial	ID	Age	GPA	DegreeClassification
+Bond	B	D	20201231	24	1.0	Ordinary degree (no honours)
+Kaur	K	G	20211122	26	2.2	Third class honours
+Fast	F	A	20212221	25	3.2	Lower second-class honours
+Rich	R	X	20225412	22	3.9	Upper second-class honours
+Hero	H	F	20193476	22	4.0	First-class honours
